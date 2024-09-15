@@ -44,22 +44,28 @@
   <img src="https://skillicons.dev/icons?i=kali,windows,obsidian,notion" /> 
 </div>
 
-
+<br>
 <div align="center">
-  <h2>My Contributions</h2>
+  <h2>💻 My Contributions 💻</h2>
   <br>
   <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ilyasben26/ilyasben26/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ilyasben26/ilyasben26/output/github-contribution-grid-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/ilyasben26/ilyasben26/output/github-contribution-grid-snake.svg" />
-
-      
 </picture>
   
-  <br/><br/><br/>
+</div>
+<hr/>
+
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+  <img width=500 src="https://streak-stats.demolab.com?user=ilyasben26&theme=dark" alt="streak stats"/>
+    <br/>
+  <img width=390 src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilyasben26&hide=tex,Jupyter+Notebook,cmake&layout=compact&theme=dark" alt="readme stats" />
+  <br/>
+  
 </div>
 
-<br/>
-
-<hr/>
+<br/><br/>
 
