@@ -46,7 +46,7 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=vscode,github,git,bash,docker,aws,terraform,netlify" /> <!--- Devops Skills --->
   <br/>
-  <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,figma,tailwind,flutter,npm,vite" /> 
+  <img src="https://skillicons.dev/icons?i=react,nextjs,bootstrap,html,css,figma,tailwind,flutter,npm,vite" /> 
   <br/>
   <img src="https://skillicons.dev/icons?i=nodejs,express,spring,mysql,postgresql,mongodb,django,graphql,sqlite,kafka" />
   <br/>
