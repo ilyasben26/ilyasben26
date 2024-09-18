@@ -17,6 +17,8 @@
  🌱 I’m currently learning **Malware Development, Typescript, AWS, Networking and more ...**
 
 </div>
+  
+</div>
 <br/>
  <div align="center"> 
   <a href="mailto:benyamnailyas@gmail.com">
@@ -29,6 +31,15 @@
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=react&logoColor=white" target="_blank" /> 
   </a>
 </div>
+<br>
+<div align="center">
+  <h2>💻 My Contributions 💻</h2>
+  <br>
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ilyasben26/ilyasben26/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ilyasben26/ilyasben26/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/ilyasben26/ilyasben26/output/github-contribution-grid-snake.svg" />
+</picture>
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
@@ -44,17 +55,7 @@
   <img src="https://skillicons.dev/icons?i=kali,windows,obsidian,notion" /> 
 </div>
 
-<br>
-<div align="center">
-  <h2>💻 My Contributions 💻</h2>
-  <br>
-  <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ilyasben26/ilyasben26/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ilyasben26/ilyasben26/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/ilyasben26/ilyasben26/output/github-contribution-grid-snake.svg" />
-</picture>
-  
-</div>
+
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
