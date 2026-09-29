@@ -10,7 +10,7 @@
 
 <div align="center">
 
- 💼 I'm currently looking for positions in **Software Development, Cloud, Data Engineering or DevOps**.
+ 💼 I'm currently looking for positions in **Software Development, Cloud, Data Engineering and DevOps**.
 
 </div>
   
